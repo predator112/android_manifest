@@ -109,6 +109,7 @@
   <project path="system/keymaster" name="android_system_keymaster" remote="corvus" />
 
   <!-- Prebuilts -->
+  <project path="prebuilts/clang/host/linux-x86" name="android_prebuilts_clang_host_linux-x86" remote="corvus" clone-depth="1" />
   <project path="prebuilts/tools-extras" name="android_prebuilts_tools-extras" remote="corvus" />
   <project path="prebuilts/r8" name="android_prebuilts_r8" remote="corvus"  clone-depth="1" />
   <project path="prebuilts/build-tools" name="android_prebuilts_build-tools" remote="corvus" />
