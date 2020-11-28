@@ -136,7 +136,6 @@
   <project path="packages/apps/PackageInstaller" name="android_packages_apps_PackageInstaller" remote="corvus" />
   <project path="packages/providers/MediaProvider" name="android_packages_providers_MediaProvider" remote="corvus" />
   <project path="packages/providers/DownloadProvider" name="android_packages_providers_DownloadProvider" remote="corvus" />
-  <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" remote="corvus" />
   <project path="packages/apps/Traceur" name="android_packages_apps_Traceur" remote="corvus" />
   <project path="packages/apps/DocumentsUI" name="android_packages_apps_DocumentsUI" remote="corvus" />
   <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_LatinIME" remote="corvus" />
