@@ -8,7 +8,7 @@
 
 # Initialize Local Repository #
 ```bash
-repo init -u https://github.com/Corvus-ROM/android_manifest.git -b 10
+repo init -u https://github.com/predator112/android_manifest -b 10
 ```
 
 # Or Initialize Shallow Clone #
